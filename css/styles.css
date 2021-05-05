@@ -24,7 +24,7 @@ header p {
 }
 
 header img {
-  width: 580px;
+  width: 100%;
   vertical-align: bottom;
 }
 
@@ -69,7 +69,7 @@ header img {
 
 .container {
   text-align: center;
-  
+
 }
 
 .container section ul {
